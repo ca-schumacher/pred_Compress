@@ -15,6 +15,9 @@ The data set represents the first of four stages for compression of natural gas 
 
 The first stage compressor (23-KA-9101) is an electrically-driven, fixed-speed centrifugal compressor which receives gas from the separators at approximately 3 barg pressure. Before reaching the compressor, the gas is cooled in the first stage suction cooler (23-HA-9103), which is a shell-and-tube heat exchanger. The cooled gas flows into the first stage suction scrubber (23-VG-9101), which removes liquid droplets before the gas enters the compressor. The gas is compressed to approximately 12 barg and flows through a pair of discharge coolers (23-HA-9114/9115) before entering the second stage of compression.
 
+Further info, especially about the involved components and their piping and instrumentation diagrams (P&ID) can be found in the appendix of this master thesis:
+Enerstvedt, Å. (2010). VRD plant performance testing project (Master's thesis, University of Stavanger, Norway). https://uis.brage.unit.no/uis-xmlui/bitstream/handle/11250/182790/Enerstvetdt,%20%C3%85sbj%C3%B8rn.pdf?sequence=1 
+
 ### Control
 Automatic control of the first stage compressor and associated process equipment is achieved by the following control loops:
 
